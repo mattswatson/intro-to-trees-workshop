@@ -8,7 +8,7 @@ The notebooks should be worked through in numerical order. For the workshop, the
 
 1. [Introduction](https://colab.research.google.com/github/mattswatson/intro-to-trees-workshop/blob/main/01%20-%20Introduction.ipynb)
 2. [Simple Decision Trees](https://colab.research.google.com/github/mattswatson/intro-to-trees-workshop/blob/main/02%20-%20Simple%20Decision%Trees.ipynb)
-3. [Variance and Overfitting](https://colab.research.google.com/github/mattswatson/intro-to-trees-workshop/blob/main/03%20-%20Variance%20and%20.ipynb)
+3. [Variance and Overfitting](https://colab.research.google.com/github/mattswatson/intro-to-trees-workshop/blob/main/03%20-%20Variance%20and%20Overfitting.ipynb)
 4. [Boosting](https://colab.research.google.com/github/mattswatson/intro-to-trees-workshop/blob/main/04%20-%20Boosting.ipynb)
 5. [Bagging](https://colab.research.google.com/github/mattswatson/intro-to-trees-workshop/blob/main/05%20-%20Bagging.ipynb)
 6. [Random Forests](https://colab.research.google.com/github/mattswatson/intro-to-trees-workshop/blob/main/06%20-%20Random%20Forests.ipynb)
