@@ -7,7 +7,7 @@ This repository contains all material for the N8 CIR Introduction to Decision Tr
 The notebooks should be worked through in numerical order. For the workshop, they can be ran directly from [Google Colab](https://colab.research.google.com) using the following links:
 
 1. [Introduction](https://colab.research.google.com/github/mattswatson/intro-to-trees-workshop/blob/main/01%20-%20Introduction.ipynb)
-2. [Simple Decision Trees](https://colab.research.google.com/github/mattswatson/intro-to-trees-workshop/blob/main/02%20-%20Simple%20Decision%Trees.ipynb)
+2. [Simple Decision Trees](https://colab.research.google.com/github/mattswatson/intro-to-trees-workshop/blob/main/02%20-%20Simple%20Decision%20Trees.ipynb)
 3. [Variance and Overfitting](https://colab.research.google.com/github/mattswatson/intro-to-trees-workshop/blob/main/03%20-%20Variance%20and%20Overfitting.ipynb)
 4. [Boosting](https://colab.research.google.com/github/mattswatson/intro-to-trees-workshop/blob/main/04%20-%20Boosting.ipynb)
 5. [Bagging](https://colab.research.google.com/github/mattswatson/intro-to-trees-workshop/blob/main/05%20-%20Bagging.ipynb)
